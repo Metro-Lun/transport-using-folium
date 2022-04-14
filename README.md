@@ -1,5 +1,5 @@
 # Transportation using Folium
-Maps about transportation - just for my pleasure.
+Maps about transport - just for my pleasure.
 
 ## Table of contents
 * [Description](#description)
