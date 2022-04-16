@@ -21,6 +21,6 @@ Being a passionate about public transport, I decided to use [this database](http
 * A database editor (such as DB Browser for SQLite)
 
 ## How to use this ?
-* The `f_map1.py` file exploits data from the `stops.csv` file
-* The `f_map2.py` file exploits data from the `joined.sqlite3` database
+The `f_map1.py` file exploits data from the `stops.csv` file
+The `f_map2.py` file exploits data from the `joined.sqlite3` database
 Run these programs in order to obtain a HTML file containing the map. Soon I'll add a complete web page (HTML + CSS).
